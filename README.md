@@ -1,5 +1,5 @@
-# Vue 3 + TypeScript + Vite
+## note
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+本專案在面試時間限制下，優先完成登入、Token 管理與路由驗證等核心功能，並確保整體流程穩定可運作。
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+介面設計採最小實作，將重點放在功能實現與架構清晰度上。開發環境中提供測試帳密預填以利驗證流程，正式環境則維持使用者輸入。
