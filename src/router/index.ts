@@ -17,9 +17,6 @@ router.beforeEach((to) =>{
 	if(to.meta.requiresAuth && !tokenStorage().getToken()){
 		return '/login'
 	}
-if (to.meta.requiresAuth && !tokenStorage().getToken()) {
-    return '/login'
-  }
 })
 
 export default router
