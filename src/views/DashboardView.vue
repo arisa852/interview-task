@@ -15,7 +15,7 @@
             v-model="searchKeyword"
             type="text"
             class="toolbar__search-input"
-            placeholder="搜尋帳號（姓名、郵件、角色）…"
+            placeholder="搜尋帳號…"
           />
         </div>
 

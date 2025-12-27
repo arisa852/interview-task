@@ -27,11 +27,3 @@ const onEdit = () => {
     <button @click="onDelete">刪除</button>
   </div>
 </template>
-<style lang="scss" scoped>
-
-
-
-
-
-
-</style>
