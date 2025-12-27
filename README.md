@@ -1,16 +1,16 @@
-## note
+## Note
 
-本專案在面試時間限制下，優先完成登入、Token 管理與路由驗證等核心功能，並確保整體流程穩定可運作。
+本專案為面試測驗內容，因開發時間有限，目前已完成 帳號資料的讀取、更新與刪除功能，並完成與後端 API 的串接流程設計，確保核心資料操作可正常運作。
 
-介面設計採最小實作，將重點放在功能實現與架構清晰度上。開發環境中提供測試帳密預填以利驗證流程，正式環境則維持使用者輸入。
+登入、Token 管理、路由守衛與權限驗證等功能尚未納入本階段開發範圍；本專案重點著重於 前端資料流程與程式結構規劃，後續仍可在此基礎上擴充完整系統功能。
 
 ## 環境安裝與使用
 
 Clone 專案
 
 ```bash
-git clone https://github.com/arisa852/interview.git
-cd interview
+git clone https://github.com/arisa852/interview-task.git
+cd interview-task
 ```
 
 ### 安裝相依套件
